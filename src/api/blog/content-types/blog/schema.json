@@ -28,6 +28,9 @@
     },
     "contents": {
       "type": "richtext"
+    },
+    "description": {
+      "type": "text"
     }
   }
 }
