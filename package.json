@@ -3,6 +3,10 @@
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dducnv/strapi-blog"
+},
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
